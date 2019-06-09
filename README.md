@@ -2,7 +2,7 @@
 To check R fonts for windows
 ## Jupyterlab R Fonts for Windows
 
-This project is a tutorial on to checking R fonts for windows using Jupyter notebooks through the extrafont, package/library 
+This project is a tutorial on checking R fonts for windows using Jupyter notebooks through the extrafont, package/library 
 
 
 ## Getting Started
