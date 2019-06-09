@@ -28,7 +28,7 @@ install.packages("extrafont")
 
 ## Author
 
-* **Lucy Njoki** - [LucyNjoki:Github](https://github.com/LucyNjoki) - [Lucy Njoki:LinkedIn](https://www.linkedin.com/in/lucy-njoki-b34b44135/)
+* **Lucy Njoki** - [Github](https://github.com/LucyNjoki) - [LinkedIn](https://www.linkedin.com/in/lucy-njoki-b34b44135/)
 
 ## Acknowledgments
 
